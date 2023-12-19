@@ -1,0 +1,36 @@
+﻿  Level.cpp
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Level.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Level.cpp(92,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Level.cpp(98,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Level.cpp(104,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Level.cpp(133,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Level.cpp(282,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Level.cpp(282,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Prediction.cpp
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Prediction.cpp(27,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Prediction.cpp(27,35): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Prediction.cpp(58,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Prediction.cpp(58,35): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Prediction.cpp(87,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Prediction.cpp(88,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Prediction.cpp(67,28): warning C4101: 'y_average_velocity': unreferenced local variable
+C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\client\Prediction.cpp(67,8): warning C4101: 'x_average_velocity': unreferenced local variable
+  Generating Code...
+  client.vcxproj -> C:\Users\lukas\Desktop\Uni Stuff\Third Year\CMP303\Project\CMP303 2103219\Source Code\client\client\x64\Debug\client.exe
